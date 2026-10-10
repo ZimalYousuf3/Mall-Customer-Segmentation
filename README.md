@@ -9,7 +9,7 @@ A customer segmentation project that uses K-Means clustering to group mall custo
 - Used the Elbow Method to determine the optimal number of clusters (k=5)
 - Trained a K-Means model and assigned cluster labels
 - Visualized clusters with a scatter plot, including cluster centers
-- Built customer personas by analyzing each cluster's average income and spending
+- Built customer personas by analyzing each cluster's average income and spending 
 
 ## Personas Identified
 
